@@ -11,6 +11,7 @@ https://www.slideshare.net/GrantSteinfeld/hyperledger-fabric-blockchain-sushi-an
 ### Repos Code-Patterns/How To's
 
 #### simple getting started tic/tac/toe game
+https://github.com/Grant-Steinfeld/block-boilerplate ( caveat-emptor - under construction - to be udated and QA soon! )
 
 #### blockbean example repo
 ```
