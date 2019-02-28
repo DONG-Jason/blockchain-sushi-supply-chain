@@ -11,6 +11,8 @@ https://www.slideshare.net/GrantSteinfeld/hyperledger-fabric-blockchain-sushi-an
 #### IBM Cloud Signup for a free trial account
 https://cloud.ibm.com/login
 
+
+#### Contact the presenter : Grant Steinfeld
 ```
    Blog:          https://medium.com/@grantsteinfeld      
    GitHub:        https://github.com/grant-steinfeld
