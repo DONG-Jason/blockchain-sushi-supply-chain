@@ -24,10 +24,14 @@ https://github.com/horeaporutiu/blockchainbean2
 #### IBM Cloud Signup for a free trial account
 https://cloud.ibm.com/login
 
+#### Instresting links on Blockchain 
+Academic paper - [Hyperledger Fabric: A Distributed Operating System forPermissioned Blockchains]( https://arxiv.org/pdf/1801.10228.pdf )
+
+Fascinating podcasets - [Blockchains with Melanie Swan]( https://softwareengineeringdaily.com/2015/08/11/blockchains-with-melanie-swan/ )
+
+[Building blockchains with Daniel Van Flyman]( https://softwareengineeringdaily.com/2017/10/12/blockchain-building-with-daniel-van-flymen/  )
 
 #### For help Contact the presenter : Grant Steinfeld
-
-##### or open an github issue
 ```
    Blog:          https://medium.com/@grantsteinfeld      
    GitHub:        https://github.com/grant-steinfeld
