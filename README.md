@@ -5,15 +5,17 @@ Notes from webinar `Blockchain, Sushi and Supply Chain - Building Enterprise Blo
 ## The presentation slides on slide share
 https://www.slideshare.net/GrantSteinfeld/hyperledger-fabric-blockchain-sushi-and-supply-chain
 
+## The video replay of the live webinar
+https://bit.ly/2EEqpxJ
 
-### Useful links
+## Useful links
 
-### Repos Code-Patterns/How To's
+## Code-Patterns used
 
 #### simple getting started tic/tac/toe game
 https://github.com/Grant-Steinfeld/block-boilerplate ( caveat-emptor - under construction - to be udated and QA soon! )
 
-#### blockbean example repo
+#### blockbean
 ```
 This code pattern shows how to model a supply-chain network using the IBM Blockchain Starter Plan and is based on a collaboration with Brooklyn Roasting Company. The story, along with the supply-chain documents that were used to model this network, can be found at: https://www.ibm.com/blockchainbean
 ```
